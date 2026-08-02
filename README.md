@@ -1,4 +1,4 @@
-# Desktop Organizer(目前更新到version0.2，请看branch）
+# Desktop Organizer(目前更新到version0.2）
 
 > **AI-powered desktop file sorter** 基于 DeepSeek 的智能桌面收纳工具
 ## 简介|Introduction
